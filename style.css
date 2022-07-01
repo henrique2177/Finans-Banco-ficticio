@@ -1,0 +1,11 @@
+
+#home{
+    background-color: #ffc107;
+    color: white;
+}
+
+.link ul li a:hover{
+    color: white;
+    background: black;
+    border: 1px solid red;
+}
